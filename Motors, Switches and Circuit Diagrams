@@ -1,0 +1,47 @@
+
+
+Last week it was Leds, this week it's motors. Now you have built your first circuits, its time to show you how to draw these on paper to help you understand them.
+
+All electrical components including Leds and motors can be represented in a special type of drawing called a circuit diagram. We use a circuit diagram to make a map of how to build the circuit for other people to use.
+
+If you remember the blinking led project from last week, here is the circuit diagram for that....
+
+See if you can work out what each bit of the circuit is. I have already labelled the led for you.
+
+
+
+Now let's change the circuit to add a motor. Like many electrical components a motor has only two wires..positive and negative. Confusingly there are many ways to refer to the same thing and here are some of the most common. ..
+
+Live, Positive, red, plus, all refer to the  outgoing part of the circuit and this side of the circuit carries voltage into the components 
+
+Earth, ground, black, negative, minus all refer to the incoming part of the circuit and carry voltage away from the components.
+
+What is voltage? Well, for most of our circuits we make we will be using 5 volts. Think of voltage as the water moving through a pipe...without water in the pipe nothing will work. 
+
+Now have a look at the circuit diagrams above again..they all have one thing in common...the wires are shown by a continous line... if this line is broken, the circuit will stop working. A switch like those you see on your battery powered toys works exactly in this way, turning the switch off breaks the line on the circuit diagram and the circuit stops working
+
+Now redraw the circuit above and add in a switch using this symbol....
+
+
+Now try to add a switch to your circuit..what happens when  you connect the switch in different places on the circuit?
+
+Now we have a switch working, let's add the motor..if we had added the motor before the switch,  we could have never turned it off! 
+
+Think about where in he circuit the motor would go and add in your diagram below.
+
+Q. "Why are we drawing these diagrams all the time? I want to work with the wires.."
+
+A. One of the key aspects of electronics projects is to plan out what you want to do in advance.  It helps to stop you from breaking components or possibly even giving yourself an electric shock!
+
+So now build your circuit that you have drawn above....
+
+Hopefully at this point your circuit will work and the motor will be able to be switched off and on by you.
+
+Now, we already know from last week that the led only works one way..so what about the motor?
+
+Try connecting the positive and negative wires the other way round on the motor..what happens to the way it moves? Why do you think this is?
+
+Now we have built a circuit with a motor in, next week we will look at the adding in another circuit board to our circuit that allows us to use two motors together that will become the wheels of our robot. Using the arduino we will help you connect the circuit and show you how to reverse the motors. This will help steer the robot..
+
+See you next week. 
+
